@@ -1,10 +1,11 @@
-/** @type {import('next').NextConfig} */
-const prefix =
-    process.env.NODE_ENV === 'production' ? 'https://kwon812.github.io/Kwon812/' : ''
 
+const prefix = process.env.NODE_ENV === 'production' ? '/Kwon812' : ''
+
+/** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
     assetPrefix: prefix,
+    basePath: prefix,
     images: {
         unoptimized: true,
     },
