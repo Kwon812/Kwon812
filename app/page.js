@@ -19,7 +19,7 @@ export default function Home() {
                   <p className={'font-bold text-xl'}>FullStack Engineering</p>
               </div>
               <div className={' flex justify-center items-center animate-slide-in-right '}>
-                  <div className={' justify-center  gap-5 flex flex-wrap '}>
+                  <div className={' justify-center  gap-5 flex flex-wrap  '}>
                       {
                           menu.map((x,i)=>{
                               return (
