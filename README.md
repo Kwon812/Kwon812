@@ -9,5 +9,5 @@ css 라이브러리로 Tailwind를 사용하였습니다
 
 -github에 코드를 올렸습니다 
 -next로 만든 프로젝트라서 vercel로 배포하고 링크를 따로 걸었습니다
--깃헙 사이트 주소 :https://github.com/Kwon812/Kwon812
+-깃헙 사이트 주소 :https://github.com/Kwon812/Kwon812 
 -배포한 사이트 주소 : https://hnu13.vercel.app/
