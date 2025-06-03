@@ -12,7 +12,7 @@ css 라이브러리로 Tailwind를 사용하였습니다
 3. 기능설명 : 수상&경력을 삭제하거나 추가 할 수 있는 기능
 4. 코드설명 : 포지션은 fixed로 항상 부모컨테이너의 오른쪽 대각선 아래에 위치하도록 했고. input 태그에 값을 입력하고 버튼을 누르면 input의 ref(dom) 속성에 직접 접근해서 current.value로 입력된 값을 받아와서 상태(Details)에 추가하도록 했습니다. details.map으로  상태들을 리턴해서 표시하도록 했습니다
 
-## etc
+## ..
 * github에 코드를 올렸습니다 
 * next로 만든 프로젝트라서 vercel로 배포하고 링크를 따로 걸었습니다
 * 깃헙 사이트 주소 :https://github.com/Kwon812/Kwon812 
