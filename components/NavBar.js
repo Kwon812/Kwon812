@@ -26,7 +26,9 @@ export default function NavBar() {
                     <Link className={'h-fit'} href={'/projects'}>
                         <p className={'cursor-pointer hover:text-red-700 '}>PROJECTS</p>
                     </Link>
-
+                    <Link className={'h-fit'} href={'/contact'}>
+                        <p className={'cursor-pointer hover:text-red-700 '}>CONTACT</p>
+                    </Link>
                 </div>
                 <span
                     className="material-symbols-outlined text-3xl text-white/70 cursor-pointer group-hover:text-red-700">dashboard</span>

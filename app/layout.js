@@ -17,7 +17,10 @@ const geistMono = localFont({
 export const metadata = {
     title: "dev.k",
     description: "developer Kwon's portfolio",
-    keywords:'developer, portfolio, fullstack, engineering, web development, ',
+    keywords: 'developer, portfolio, fullstack, engineering, web development, ',
+    verification: {
+        google: 'FDGWOgcuuT6jw50L7QTMrq1awXe2aCt4W4cZ0sJf76Q',
+    }
 };
 
 export default function RootLayout({children}) {

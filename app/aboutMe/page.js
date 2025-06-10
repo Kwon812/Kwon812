@@ -5,7 +5,7 @@ import {useRef, useState} from "react";
 export default function aboutMePage() {
 
     const [show, setShow] = useState(false);
-    const [details, setDetails] = useState(['한남대 정보통신공학과 졸업', 'SSAFY 16기 수료', '해커톤 수상']);
+    const [details, setDetails] = useState(['한남대 정보통신공학과 졸업(예정)', 'SSAFY 16기 수료(하고싶다)', '해커톤 수상(하고싶다)']);
     const ref = useRef(null)
     return (
         <>
@@ -24,7 +24,7 @@ export default function aboutMePage() {
                             </div>
                             <div>
                                 <p className={'text-xl font-bold '}>-Hannam University</p>
-                                <p className={''}> &nbsp; &nbsp; departments of Electronic</p>
+                                <p className={''}> &nbsp; &nbsp; Department of telecommunication engineering</p>
                             </div>
                         </div>
                     </div>
