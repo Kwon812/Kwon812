@@ -93,17 +93,6 @@ const dohyeong = {
 
 <br />
 
-### 🐌 달팽이 그림책 연구소 &nbsp;·&nbsp; [`snail_lab`](https://github.com/snailbooklab/snail_lab)
-
-> 강의 문의를 **놓치지 않기 위한** 1인 업무 도구. 공개 사이트 · 관리자 · 앱 · 위젯이 하나의 Supabase를 공유합니다.
-
-카톡·문자 알림을 앱이 가로채 서버로 보내면, **저장하기 전에** 키워드로 1차 필터링하고 통과한 것만 AI가 분류합니다.
-사적인 대화 원문이 DB에 남지 않게 하는 것이 이 파이프라인의 핵심 제약입니다.
-
-```
-카톡·문자 알림 → 앱이 가로챔 → 1차 필터 → AI 분류 → 알림함 → 일정 → 폰 알람 · 데스크톱 위젯
-```
-
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
