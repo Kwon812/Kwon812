@@ -16,4 +16,6 @@ Frontend Developer
 - 📱 Android Calendar App
 
 ## 📫 Contact
-- Email: example@gmail.com
+- Email: tre723@naver.com
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwon812)
