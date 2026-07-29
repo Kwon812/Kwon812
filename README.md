@@ -92,32 +92,7 @@ const dohyeong = {
 | [**🎮 Quiz Survival Arena**](https://github.com/Kwon812/tile_minigame) | 실시간 멀티플레이 3D 퀴즈 서바이벌 | `Three.js` `Socket.IO` |
 
 <br />
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kwon812&theme=tokyonight" width="88%" />
-
-<br />
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kwon812&theme=tokyonight" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kwon812&theme=tokyonight" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kwon812&theme=tokyonight" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kwon812&utcOffset=9&theme=tokyonight" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Kwon812&theme=tokyonight&hide_border=true&border_radius=12&date_format=Y.n.j" width="60%" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kwon812&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph" width="94%" />
-
-</div>
-
-<br />
-
-<div align="center">
 
 ### 📮 Contact
 
