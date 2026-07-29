@@ -92,17 +92,6 @@ const dohyeong = {
 | [**🎮 Quiz Survival Arena**](https://github.com/Kwon812/tile_minigame) | 실시간 멀티플레이 3D 퀴즈 서바이벌 | `Three.js` `Socket.IO` |
 
 <br />
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
-![Tiptap](https://img.shields.io/badge/Tiptap-8B5CF6?style=flat-square)
-
-**함께 만든 클라이언트** — [`snail_lab_app`](https://github.com/snailbooklab/snail_lab_app) (Expo · 로컬 알림 · 홈 위젯) · [`snail_lab_widget`](https://github.com/Kwon812/snail_lab_widget) (Tauri 2 · 바탕화면 상주 · Realtime 반영)
-
-<br />
 ## 📊 GitHub Stats
 
 <div align="center">
