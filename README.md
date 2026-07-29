@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 안녕하세요. 권도형입니다.
 
-<!--
-**Kwon812/Kwon812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Next.js
+- React
+- TypeScript
+- React Native (Expo)
+- Supabase
+- TanStack Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📅 Choi Media Calendar
+- 🖥 Windows Desktop Widget
+- 📱 Android Calendar App
+
+## 📫 Contact
+- Email: example@gmail.com
