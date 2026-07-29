@@ -114,47 +114,6 @@ const dohyeong = {
 **함께 만든 클라이언트** — [`snail_lab_app`](https://github.com/snailbooklab/snail_lab_app) (Expo · 로컬 알림 · 홈 위젯) · [`snail_lab_widget`](https://github.com/Kwon812/snail_lab_widget) (Tauri 2 · 바탕화면 상주 · Realtime 반영)
 
 <br />
-
-### 🧩 Syncly &nbsp;·&nbsp; [`TeampleRun/syncly`](https://github.com/TeampleRun/syncly)
-
-> 목적을 고르면 화면이 조립되는 **상황 맞춤형 협업 워크스페이스**
-
-Slack·Notion·Jira는 강력하지만 소규모 팀에는 초기 세팅이 부담입니다.
-팀플 / 프로젝트 / 매장 운영 템플릿을 고르면 공지·업무·일정·회의록·채팅이 한 공간에 구성됩니다.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-
-<br />
-
-### 🎨 Star-Art &nbsp;·&nbsp; [`star-art-for-children/Frontend`](https://github.com/star-art-for-children/Frontend)
-
-> 어린이의 그림을 업로드해 **3D 갤러리**로 전시·감상하는 웹 애플리케이션 · KT Cloud Tech Up 팀 프로젝트
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![R3F](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Toss Payments](https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square)
-![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
-
-<br />
-
-### 🎮 Quiz Survival Arena &nbsp;·&nbsp; [`tile_minigame`](https://github.com/Kwon812/tile_minigame)
-
-> 같은 3D 공간에서 정답 타일로 이동하는 **실시간 멀티플레이** 퀴즈 서바이벌. 마지막 1인이 승리합니다.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-<br />
-
 ## 📊 GitHub Stats
 
 <div align="center">
